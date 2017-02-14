@@ -1,0 +1,38 @@
+body{
+  background-image:url("http://www.designlovefest.com/wp-content/uploads/downloads/2015/04/desktop_luna-2.jpg");
+}
+
+#one
+{background-image:url("http://www.designlovefest.com/wp-content/uploads/downloads/2015/04/desktop_luna1.jpg");
+background-repeat:round;
+font-family: 'Amatic SC', cursive;
+width: 500px;
+height: 50px;
+padding:100px;
+margin: auto;
+border: double 15px  white;
+color: white;
+font-size:30px;
+font-weight: 500;
+}
+
+ul{
+display: flex;
+justify-content: space-between;
+text-align: center;
+
+}
+li{
+  display:inline;
+  border: 3px solid  white;
+
+}
+
+
+a:visited{
+  color:white;
+}
+
+}
+a:hover{
+  color:white;
